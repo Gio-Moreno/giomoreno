@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5 {
 
 
 h2 {
-  font-size: 28px; }
+  font-size: 25px; }
 
 a {
   -webkit-transition: .3s all;
@@ -173,7 +173,7 @@ a {
   overflow: hidden;}
   .site-hero, .site-hero .row {
     height: 100vh;
-    min-height: 800px; }
+    min-height: 900px; }
   .site-hero:before {
     content: "";
     position: absolute;
